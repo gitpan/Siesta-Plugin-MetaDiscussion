@@ -4,7 +4,7 @@ use Siesta::Plugin;
 use base 'Siesta::Plugin';
 use Siesta;
 
-our $VERSION='0.02';
+our $VERSION='0.03';
 
 
 # "I have always taken you with a grain of salt. On your birthday when you asked me
